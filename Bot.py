@@ -516,4 +516,3 @@ import time
 time.sleep(2)
 print("JBAZ Bot aktif!")
 bot.polling(none_stop=True)
-```
